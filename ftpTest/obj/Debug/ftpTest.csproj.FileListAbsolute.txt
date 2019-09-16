@@ -1,0 +1,7 @@
+C:\EIS\Documents\docs\Learning\c#\ftpTest\ftpTest\bin\Debug\ftpTest.exe.config
+C:\EIS\Documents\docs\Learning\c#\ftpTest\ftpTest\bin\Debug\ftpTest.exe
+C:\EIS\Documents\docs\Learning\c#\ftpTest\ftpTest\bin\Debug\ftpTest.pdb
+C:\EIS\Documents\docs\Learning\c#\ftpTest\ftpTest\obj\Debug\ftpTest.csprojAssemblyReference.cache
+C:\EIS\Documents\docs\Learning\c#\ftpTest\ftpTest\obj\Debug\ftpTest.csproj.CoreCompileInputs.cache
+C:\EIS\Documents\docs\Learning\c#\ftpTest\ftpTest\obj\Debug\ftpTest.exe
+C:\EIS\Documents\docs\Learning\c#\ftpTest\ftpTest\obj\Debug\ftpTest.pdb
